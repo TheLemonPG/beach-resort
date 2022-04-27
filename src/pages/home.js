@@ -29,26 +29,26 @@ const Home = ({ featuredRooms }) => {
             <Row className="justify-content-center">
               <Col xs={10} sm={6} lg className="text-center">
                 <CardIem
-                  title="Free Cocktails"
-                  txt="package from 5 contributors and audited 905423 packages in 48.55s and audited 905423 packages in 48.55s"
+                  title="Easy Shipping"
+                  txt=""
                 />
               </Col>
               <Col xs={10} sm={6} lg className="text-center">
                 <CardIem
-                  title="Endless Hiking"
-                  txt="package from 5 contributors and audited 905423 packages in 48.55s and audited 905423 packages in 48.55s"
+                  title="Residental Security"
+                  txt=" "
                 />
               </Col>
               <Col xs={10} sm={6} lg className="Free Shuttle">
                 <CardIem
-                  title="Free Cocktails"
-                  txt="package from 5 contributors and audited 905423 packages in 48.55s and audited 905423 packages in 48.55s"
+                  title="Fraud Proof"
+                  txt=" "
                 />
               </Col>
               <Col xs={10} sm={6} lg className="text-center">
                 <CardIem
-                  title="Strongest Beer"
-                  txt="package from 5 contributors and audited 905423 packages in 48.55s and audited 905423 packages in 48.55s"
+                  title="Best Match"
+                  txt=" "
                 />
               </Col>
             </Row>
