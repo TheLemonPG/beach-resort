@@ -14,8 +14,8 @@ const Home = ({ featuredRooms }) => {
   return (
     <div>
       <Head
-        title="Luxurious Rooms"
-        subtitle="Deluxe Rooms Starting at 299$"
+        title="Budget Friendly Rooms In Your City"
+        subtitle="Rooms Starting at Rs 3000"
         bg={defaultBog}
         btn={<CustomButton txt="Our Rooms" to="beach-resort/rooms" />}
       />
@@ -126,26 +126,26 @@ export default Home;
 //               <Row>
 //                 <Col xs={12} sm={6} md className="text-center">
 //                   <CardIem
-//                     title="Free Cocktails"
-//                     txt="package from 5 contributors and audited 905423 packages in 48.55s and audited 905423 packages in 48.55s"
+//                     title="Easy Shipping"
+//                     txt=" "
 //                   />
 //                 </Col>
 //                 <Col xs={12} sm={6} md className="text-center">
 //                   <CardIem
-//                     title="Endless Hiking"
-//                     txt="package from 5 contributors and audited 905423 packages in 48.55s and audited 905423 packages in 48.55s"
+//                     title="Residental Security"
+//                     txt=". "
 //                   />
 //                 </Col>
 //                 <Col xs={12} sm={6} md className="Free Shuttle">
 //                   <CardIem
-//                     title="Free Cocktails"
-//                     txt="package from 5 contributors and audited 905423 packages in 48.55s and audited 905423 packages in 48.55s"
+//                     title="Fraud Proof"
+//                     txt=".   "
 //                   />
 //                 </Col>
 //                 <Col xs={12} sm={6} md className="text-center">
 //                   <CardIem
-//                     title="Strongest Beer"
-//                     txt="package from 5 contributors and audited 905423 packages in 48.55s and audited 905423 packages in 48.55s"
+//                     title="Best Match"
+//                     txt=". "
 //                   />
 //                 </Col>
 //               </Row>
